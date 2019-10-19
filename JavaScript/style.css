@@ -1,0 +1,20 @@
+.centralizaForm {
+    width: 100%;
+    margin-left:35%;
+    margin-top:10%;
+}
+.none{
+    display: none;
+}
+#erro{
+    font-size:25px;
+    color:darkred;
+}
+#certo{
+    font-size:25px;
+    color:green;
+}
+#insira{
+    font-size:25px;
+    color:mediumorchid;
+}
